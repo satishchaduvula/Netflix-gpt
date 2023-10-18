@@ -32,6 +32,10 @@
     padding: 10px;
     margin: 20px;
     background-color: #333;
+    font-size: 16px;
+    border: 1px solid;
+    border-radius: 4px;
+    color: white;
 }
 .sign-in-btn{
     background-color: #e50914;
@@ -43,6 +47,8 @@
     font-weight: 500;
     border-radius: 5px;
     cursor: pointer;
+    border: 1px solid gray;
+
 }
 .sign-up{
     cursor: pointer;
